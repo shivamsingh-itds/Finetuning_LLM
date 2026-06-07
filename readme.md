@@ -369,6 +369,6 @@ Use QLoRA when:
 
 ---
 
-# 🔥 Key Takeaway
+# Key Takeaway
 
 > Fine-Tuning adapts a pretrained LLM to a specific task. LoRA achieves this efficiently by training small adapter matrices instead of all model parameters, while QLoRA further reduces memory usage by combining LoRA with 4-bit quantization, enabling large language models to be fine-tuned on affordable hardware.
